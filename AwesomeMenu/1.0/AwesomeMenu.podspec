@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "AwesomeMenu"
-  s.version      = "1.0"
+  s.version      = "1.1"
   s.summary      = "AwesomeMenu is a menu with the same look as the story menu of Path."
   s.homepage     = "https://github.com/levey/AwesomeMenu"
   s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
